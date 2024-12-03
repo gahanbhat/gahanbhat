@@ -4,8 +4,8 @@
 
 - # Hello, I'm Gahan 👋
 
-- 💻 I'm a Full Stack Developer
+- 💻 I'm a Software Dev
 - 🔭 I'm currently working on building impactful projects
-- 🌱 I'm currently learning NextJS, Python
+- 🌱 I'm currently learning NextJS, Python, AI
 - 👯 I'm looking to collaborate on open source projects
 - 📫 How to reach me: gahanbhat@gmail.com
