@@ -6,6 +6,6 @@
 
 - 💻 I'm a Software Dev
 - 🔭 I'm currently working on building impactful projects
-- 🌱 I'm currently learning NextJS, Python, AI
+- 🌱 Learning NextJS, Python and AI tools
 - 👯 I'm looking to collaborate on open source projects
 - 📫 How to reach me: gahanbhat@gmail.com
